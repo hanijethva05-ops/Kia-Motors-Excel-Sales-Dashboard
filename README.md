@@ -35,6 +35,6 @@ Created as part of my Data Analytics learning journey.
 
 ## Dashboard Preview
 
-![Kia Motors Sales Dashboard](Kia-Sales-Dashboard.png)
+![Kia Motors Sales Dashboard](Kia-Sales-Dashboard.png.png)
 
 
