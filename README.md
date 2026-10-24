@@ -37,4 +37,12 @@ Created as part of my Data Analytics learning journey.
 
 ![Kia Motors Sales Dashboard](Kia-Sales-Dashboard.png.png)
 
+## Related SQL Project
+
+This Excel dashboard is related to my SQL-based sales and business analytics project.
+
+**SQL Project:** [Kia Motors Sales & Business Analytics](https://github.com/hanijethva05-ops/Kia-Motors-Sales-Business-Analytics)
+
+The SQL project focuses on business analysis, while the Excel dashboard presents sales insights through KPIs, charts, and interactive filters.
+
 
